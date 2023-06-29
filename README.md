@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **WebDev**
 
-- 🌱 I’m currently learning **MERN & AppDev**
+- 🌱 I’m currently learning **MERN**
 
-- 👯 I’m also looking to explore on **DevOps**
+- 👯 I’m also looking to explore on **AppDev & DevOps**
 
 - 👨‍💻 Website link **https://ankitkashyap.netlify.app**
 
