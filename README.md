@@ -6,9 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=switchbladeak&label=Profile%20views&color=0e75b6&style=flat" alt="switchbladeak" /> </p>
 
+- **Total Repository Count:** 66
+- **Private Repository Count:** 28
+
 - 🔭 I’m currently working on **AI/ML**
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **RAG**
 
 - 👯 I’m also looking to explore on **LLM**
 
