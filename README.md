@@ -6,8 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=switchbladeak&label=Profile%20views&color=0e75b6&style=flat" alt="switchbladeak" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SwitchBladeAK" alt="SwitchBladeAK" /></a> </p>
-- Total Repository Count: 88
-- Private Repository Count: 42
+- Total Repository Count: 97
+- Private Repository Count: 43
 
 - 🔭 I’m currently working on **AI/ML**
 
