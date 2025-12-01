@@ -9,11 +9,11 @@
 - Total Repository Count: 97
 - Private Repository Count: 43
 
-- 🔭 I’m currently working on **AI/ML**
+- 🔭 I’m currently deep diving more on Backend technolgies
 
-- 🌱 I’m currently learning **Gen AI**
+- 🌱 I’m currently learning Distributed Systems.
 
-- 👯 I’m also looking to explore on **LLM**
+- 👯 I’m also looking to explore on Gen-AI
 
 - 👨‍💻 Website link **https://ankitkashyap.netlify.app**
 
